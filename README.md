@@ -1,6 +1,5 @@
 ## <h1 align="center"><em>Tim Drevitch</em> <p align="center">(Jr Software Engineer at Vangarden Cannabis LLC)</p></h1>
 
-
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tdrevitchvgrdn&show_icons=true&theme=tokyonight&card_width=350&custom_title=My%20GitHub%20Stats)
