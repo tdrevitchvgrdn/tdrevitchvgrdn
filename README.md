@@ -1,2 +1,2 @@
-## <h1 align="center"><em>Tim Drevitch</em> <p align="center">Jr Software Engineer at Vangarden Cannabis LLC</p></h1>
+## <h1 align="center">Tim Drevitch <p align="center"><em>Jr Software Engineer at Vangarden Cannabis LLC</em></p></h1>
 
